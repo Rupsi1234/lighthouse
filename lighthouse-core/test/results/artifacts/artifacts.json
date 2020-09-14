@@ -2475,7 +2475,7 @@
         }
       ],
       "snippet": "<button class=\"small-button\">Do something</button>",
-      "path": "3,HTML,1,BODY,17,BUTTON",
+      "devtoolsNodePath": "3,HTML,1,BODY,17,BUTTON",
       "selector": "body > button.small-button",
       "nodeLabel": "Do something",
       "href": ""
@@ -2492,7 +2492,7 @@
         }
       ],
       "snippet": "<button class=\"small-button\">Do something else</button>",
-      "path": "3,HTML,1,BODY,18,BUTTON",
+      "devtoolsNodePath": "3,HTML,1,BODY,18,BUTTON",
       "selector": "body > button.small-button",
       "nodeLabel": "Do something else",
       "href": ""

@@ -4089,6 +4089,7 @@
             "tapTarget": {
               "type": "node",
               "snippet": "<button class=\"small-button\">Do something</button>",
+              "path": "3,HTML,1,BODY,17,BUTTON",
               "selector": "body > button.small-button",
               "boundingRect": {
                 "left": 8,
@@ -4103,6 +4104,7 @@
             "overlappingTarget": {
               "type": "node",
               "snippet": "<button class=\"small-button\">Do something else</button>",
+              "path": "3,HTML,1,BODY,18,BUTTON",
               "selector": "body > button.small-button",
               "boundingRect": {
                 "left": 8,
